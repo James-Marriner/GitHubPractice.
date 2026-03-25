@@ -1,4 +1,4 @@
-Pig Game - James Marriner - README
+Pig Game - James Andrew Marriner - README
 
 All Code was run in Python version 3.13.10.
 
